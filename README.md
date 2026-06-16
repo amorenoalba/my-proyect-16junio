@@ -6,3 +6,4 @@ Hola este el fichero readme.md
 ```
 console.log("Ejemplo de js")
 ```
+Cambios realizados por compañero en otro equipo y subido al repo remoto.
